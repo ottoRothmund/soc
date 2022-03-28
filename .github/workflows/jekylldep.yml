@@ -4,4 +4,4 @@
   uses: DavidS/jekyll-deploy@1.1.1
   with:
     # Set to "true" to only build, but not deploy. This is useful for PR testing
-    build-only: true # optional, default is false
+    build-only: # optional, default is false
