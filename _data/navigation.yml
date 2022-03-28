@@ -1,0 +1,17 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  
+- title: Blog
+  url: /blog/
+
+- title: Projects
+  url: /projects/
+
+- title: Members
+  url: /members/
+
+- title: About
+  url: /about/
+
