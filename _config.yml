@@ -4,7 +4,7 @@ bio:            'Neo-Cabal'
 description:    "Avant-garde neo cabal"
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            https://ottorothmund.github.io/soc-website/
+url:            https://ottorothmund.github.io/soc/
 
 # Jekyll
 permalink:      /:title/
